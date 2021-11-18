@@ -22,7 +22,7 @@ h1 {
     align-items: center;
 }
 
-#buttons button {
+#buttons input {
     margin: 20px;
     padding: 10px;
     background-color: #fff8e6;

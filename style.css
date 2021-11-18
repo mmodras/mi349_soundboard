@@ -11,6 +11,12 @@ body {
     text-align: center;
 }
 
+h1 {
+    font-size: 3em;
+    margin: 0;
+    font-weight: 100;
+}
+
 #buttons {
     border: 1px dotted black;
     align-items: center;

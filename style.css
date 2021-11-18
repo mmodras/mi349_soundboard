@@ -12,6 +12,7 @@ body {
 
 #buttons {
     display: flex;
+    background-color: blue;
 }
 
 #buttons button {

@@ -12,10 +12,9 @@ body {
 
 #buttons {
     display: flex;
-    background-color: blue;
 }
 
 #buttons button {
-    margin: 20px;
-    padding: 50px;
+    margin: 10px;
+    padding: 10px;
 }

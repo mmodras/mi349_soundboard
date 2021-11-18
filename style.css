@@ -8,6 +8,7 @@ body {
     padding: 50px;
     border-top: 10px solid;
     background-color: #fff;
+    text-align: center;
 }
 
 #buttons {
@@ -19,4 +20,5 @@ body {
     margin: 10px;
     padding: 10px;
     background-color: #fff8e6;
+    align-items: center;
 }

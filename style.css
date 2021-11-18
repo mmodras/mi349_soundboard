@@ -12,6 +12,9 @@ body {
 
 #buttons {
     display: flex;
+}
+
+#buttons button {
     margin: 20px;
     padding: 50px;
 }

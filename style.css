@@ -14,11 +14,11 @@ body {
 #buttons {
     display: flex;
     border: 1px dotted black;
+    align-items: center;
 }
 
 #buttons button {
     margin: 10px;
     padding: 10px;
     background-color: #fff8e6;
-    align-items: center;
 }

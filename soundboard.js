@@ -1,4 +1,3 @@
-window.onload = function() {
     function play1() {
         var audio1 = document.getElementById("audio1");
         audio1.play();
@@ -14,4 +13,3 @@ window.onload = function() {
         audio3.play();
       }
 
-};

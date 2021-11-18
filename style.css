@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: cursive;
     margin: 40px;
     padding: 50px;
     border-top: 10px solid;
@@ -12,9 +12,11 @@ body {
 
 #buttons {
     display: flex;
+    border: 1px dotted black;
 }
 
 #buttons button {
     margin: 10px;
     padding: 10px;
+    background-color: #fff8e6;
 }
